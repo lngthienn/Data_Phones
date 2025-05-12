@@ -1,0 +1,637 @@
+[
+    {
+        "id": 1,
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Z Fold 6",
+        "displaysize": "7.6 inches",
+        "displaytechnology": "Dynamic AMOLED 2X",
+        "displayresolution": "2160 x 1856 (QXGA+)",
+        "display_features": "Màn hình chính: 7.6\", Dynamic AMOLED 2X, 120Hz, độ sâu màu sắc 16M, 2600nits \n Màn hình phụ: 6.3\", 968 x 2376 (HD+), Dynamic AMOLED 2X \n Kính cường lực Corning® Gorilla® Glass Victus® 2",
+        "refresh rate": "120Hz",
+        "displaytype": "Đục lỗ (Nốt ruồi)",
+        "backcamera": "Camera góc rộng: 50.0 MP, f/1.8, Thu phóng quang học 2x \n Camera chụp góc siêu rộng: 12.0 MP, f/2.2 \n Camera ống kính tele: 10.0 MP, f/2.4, Thu phóng Quang học 3x",
+        "backcameravideorecord": "UHD 8K (7680 x 4320)@30fps \n 240fps @FHD \n 120fps @FHD \n 120fps @UHD",
+        "backcamerafeatures": "Tự động lấy nét \n Zoom quang học 3x \n Tính năng Dual Preview \n Chế độ FlexMode \n Tính năng Capture View",
+        "frontcamera": "Camera bên ngoài: 10 MP, f/2.2 \n Camera bên trong: 4 MP, F1.8",
+        "chipset": "Snapdragon 8 Gen 3 for Galaxy Tăng lên 42% AI",
+        "ncftechnology": "Có",
+        "simcard": "SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM",
+        "networksupport": "5G",
+        "gps": "GPS \n Glonass \n Beidou \n Galileo \n QZSS",
+        "memory": "12 GB",
+        "internalstorage": "256 GB",
+        "battery": "4400 mAh",
+        "chargingport": "USB Type-C",
+        "osversion": "Android",
+        "cputype": "8 nhân 3.39 GHz \n 3.1GHz \n 2.9GHz \n 2.2GHz",
+        "size": "153.5 x 132.6 x 5.6 mm",
+        "folded_size": "153.5 x 68.1 x 12.1 mm",
+        "weight": "239 g",
+        "framematerial": "Nhôm",
+        "compatibility": "Hỗ trợ S Pen",
+        "wateranddustresistancerating": "IP48",
+        "otherutilities": "Samsung Care+ \n Samsung Health \n Samsung Wallet",
+        "audiotechnology": "Hỗ Trợ Âm Thanh Nổi",
+        "typesofsensors": "Cảm biến gia tốc \n Cảm biến tiệm cận \n Cảm biến ánh sáng \n La bàn \n Cảm biến áp kế \n Cảm biến trọng lực",
+        "specialfeatures": "Hỗ trợ 5G \n Bảo mật vân tay \n Nhận diện khuôn mặt \n Kháng nước, kháng bụi \n Điện thoại AI",
+        "wifi": "802.11a/b/g/n/ac/ax \n 2.4GHz+5GHz+6GHz",
+        "bluetooth": "v5.3",
+        "releasedate": "09/2022",
+        "price": [
+            { "storage1": "256GB", "price1": "43.990.000", "soldout": 0 },
+            { "storage2": "512GB", "price2": "47.990.000", "soldout": 0 },
+            { "storage3": "1TB", "price3": "54.990.000", "soldout": 2 }
+        ],
+        "storage_options": [
+            {
+                "storage1": "256GB",
+                "colors1": [
+                    {
+                        "color1": "Trắng",
+                        "price1": "35.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Xanh dương",
+                        "price2": "35.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Xám",
+                        "price3": "35.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Hồng",
+                        "price4": "35.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color5": "Đen",
+                        "price5": "35.990.000",
+                        "soldout": 0
+                    }
+                ]
+            },
+            {
+                "storage2": "512GB",
+                "colors2": [
+                    {
+                        "color1": "Xanh dương",
+                        "price1": "39.590.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Xám",
+                        "price2": "39.590.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Hồng",
+                        "price3": "39.590.000",
+                        "soldout": 0
+                    }
+                ]
+            },
+            {
+                "storage3": "1TB",
+                "colors3": [
+                    {
+                        "color1": "Xanh dương",
+                        "price1": "45.990.000",
+                        "soldout": 2
+                    },
+                    {
+                        "color2": "Xám",
+                        "price2": "45.990.000",
+                        "soldout": 2
+                    },
+                    {
+                        "color3": "Hồng",
+                        "price3": "45.990.000",
+                        "soldout": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S25 Ultra",
+        "displaysize": "6.9 inches",
+        "displaytechnology": "Dynamic AMOLED 2X",
+        "displayresolution": "3120 x 1440 pixels (Quad HD+)",
+        "display_features": "120Hz \n 2600 nits \n Corning® Gorilla® Armor 2",
+        "refresh rate": "120Hz",
+        "backcamera": "Camera siêu rộng 50MP \n Camera góc rộng 200 MP \n Camera Tele (5x) 50MP \n Camera Tele (3x) 10MP",
+        "backcamerafeatures": "Chế độ quay phim 10-bit HDR \n Quay Log Video \n Zoom quang học 100x \n Chụp hình Super HDR \n Chân dung \n Tự động lấy nét \n Quay Video đêm",
+        "frontcamera": "12 MP",
+        "chipset": "Snapdragon 8 Elite dành cho Galaxy (3nm)",
+        "ncftechnology": "Có",
+        "simcard": "2 Nano SIM + eSIM",
+        "networksupport": "5G",
+        "gps": "Có",
+        "memory": "12 GB",
+        "battery": "5000 mAh",
+        "chargingtechnology": "Sạc nhanh 45W",
+        "chargingport": "USB Type-C",
+        "osversion": "Android 17",
+        "size": "Dài 162.8mm - Ngang 77.6mm - Dày 8.2mm",
+        "weight": "218g",
+        "framematerial": "Titanium",
+        "wateranddustresistancerating": "IP68",
+        "otherutilities": "Thực hiện tác vụ liên ứng dụng bằng lời nói (Seamless Actions across Apps) \n Biên tập Video thông minh (Auto trim) \n Khoanh tròn để tìm kiếm (Circle to Search) \n Trợ lý cuộc gọi (Call Assist) \n Trợ lý chỉnh ảnh (Photo Assist)",
+        "audiotechnology": "Lọc âm thanh (Audio Eraser)",
+        "specialfeatures": "Hỗ trợ 5G \n Sạc không dây \n Kháng nước, kháng bụi \n Điện thoại AI \n Đi kèm bút cảm ứng",
+        "wifi": "Có",
+        "bluetooth": "Có",
+        "releasedate": "02-2025",
+        "price": [
+            { "storage1": "256GB", "price1": "33.990.000", "soldout": 0 },
+            { "storage2": "512GB", "price2": "37.490.000", "soldout": 0 },
+            { "storage3": "1TB", "price3": "44.790.000", "soldout": 0 }
+        ],
+        "storage_options": [
+            {
+                "storage1": "256GB",
+                "colors1": [
+                    {
+                        "color1": "Trắng/bạc",
+                        "price1": "28.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Xám",
+                        "price2": "28.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Đen",
+                        "price3": "28.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Xanh dương",
+                        "price4": "28.990.000",
+                        "soldout": 0
+                    }
+                ]
+            },
+            {
+                "storage2": "512GB",
+                "colors2": [
+                    {
+                        "color1": "Trắng/bạc",
+                        "price1": "30.890.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Xám",
+                        "price2": "30.890.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Đen",
+                        "price3": "30.890.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Xanh dương",
+                        "price4": "30.890.000",
+                        "soldout": 0
+                    }
+                ]
+            },
+            {
+                "storage3": "1TB",
+                "colors3": [
+                    {
+                        "color1": "Trắng/bạc",
+                        "price1": "35.490.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Xám",
+                        "price2": "35.490.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Đen",
+                        "price3": "35.490.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Xanh dương",
+                        "price4": "35.490.000",
+                        "soldout": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S25 Plus",
+        "displaysize": "6.7 inches",
+        "displaytechnology": "Dynamic AMOLED 2X",
+        "displayresolution": "3120 x 1440 pixels (Quad HD+)",
+        "display_features": "120Hz \n 2600 nits \n Corning® Gorilla® Armor 2",
+        "refresh rate": "120Hz",
+        "backcamera": "Camera siêu rộng 12MP \n Camera góc rộng 50MP \n Camera Tele 10MP",
+        "backcamerafeatures": "Quay Log Video \n Chụp hình Super HDR \n Chế độ quay phim 10-bit HDR \n Chân dung \n Tự động lấy nét \n Quay Video đêm",
+        "frontcamera": "12MP",
+        "chipset": "Snapdragon 8 Elite dành cho Galaxy (3nm)",
+        "ncftechnology": "Có",
+        "simcard": "2 Nano SIM + eSIM",
+        "networksupport": "5G",
+        "gps": "GPS \n Glonass \n Beidou \n Galileo \n QZSS",
+        "memory": "12 GB",
+        "battery": "4900 mAh",
+        "chargingtechnology": "Sạc nhanh 45W \n Super Fast Charging 2.0* \n Fast Wireless Charging 2.0 \n Wireless PowerShare",
+        "chargingport": "USB Type-C",
+        "osversion": "Android 17",
+        "cputype": "Tốc độ CPU: 4.47GHz \n 3.5GHz \n 8 nhân",
+        "size": "Dài 158.4mm - Ngang 75.8mm - Dày 7.3mm",
+        "weight": "190g",
+        "wateranddustresistancerating": "IP68",
+        "otherutilities": "Thực hiện tác vụ liên ứng dụng bằng lời nói (Seamless Actions across Apps) \n Biên tập Video thông minh (Auto trim) \n Khoanh tròn để tìm kiếm (Circle to Search) \n Trợ lý cuộc gọi (Call Assist) \n Trợ lý chỉnh ảnh (Photo Assist)",
+        "audiotechnology": "Lọc âm thanh (Audio Eraser)",
+        "specialfeatures": "Hỗ trợ 5G \n Nhận diện khuôn mặt \n Kháng nước, kháng bụi \n Điện thoại AI",
+        "wifi": "802.11a/b/g/n/ac/ax/be 2.4GHz+5GHz+6GHz \n EHT320 \n MIMO \n 4096-QAM",
+        "bluetooth": "Bluetooth v5.4",
+        "releasedate": "02-2025",
+        "price": [
+            { "storage1": "256GB", "price1": "26.990.000", "soldout": 0 },
+            { "storage2": "512GB", "price2": "30.490.000", "soldout": 0 }
+        ],
+        "storage_options": [
+            {
+                "storage1": "256GB",
+                "colors1": [
+                    {
+                        "color1": "Xanh lá",
+                        "price1": "23.190.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Xám bạc",
+                        "price2": "23.190.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Xanh da trời",
+                        "price3": "23.190.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Xanh navy",
+                        "price4": "23.190.000",
+                        "soldout": 0
+                    }
+                ]
+            },
+            {
+                "storage2": "512GB",
+                "colors2": [
+                    {
+                        "color1": "Trắng/bạc",
+                        "price1": "25.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Xám",
+                        "price2": "25.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Đen",
+                        "price3": "25.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Xanh dương",
+                        "price4": "25.990.000",
+                        "soldout": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S25",
+        "displaysize": "6.2 inches",
+        "displaytechnology": "Dynamic AMOLED 2X",
+        "displayresolution": "2340 x 1080-pixel",
+        "display_features": "120Hz \n 2600 nits \n Corning® Gorilla® Armor 2",
+        "refresh rate": "120Hz",
+        "backcamera": "Camera siêu rộng 12MP \n Camera góc rộng 50MP \n Camera Tele 10MP",
+        "backcamerafeatures": "Quay Log Video \n Chụp hình Super HDR \n Chế độ quay phim 10-bit HDR \n Chân dung \n Tự động lấy nét \n Quay Video đêm",
+        "frontcamera": "12MP",
+        "chipset": "Snapdragon 8 Elite dành cho Galaxy (3nm)",
+        "ncftechnology": "Có",
+        "simcard": "2 Nano SIM + eSIM",
+        "networksupport": "5G",
+        "gps": "GPS \n Glonass \n Beidou \n Galileo \n QZSS",
+        "memory": "12 GB",
+        "internalstorage": "256 GB",
+        "battery": "4000 mAh",
+        "chargingtechnology": "Sạc nhanh 25W",
+        "chargingport": "USB Type-C",
+        "osversion": "Android 17",
+        "cputype": "Tốc độ CPU 4.47GHz \n 3.5GHz \n 8 nhân",
+        "size": "Dài 146.9mm - Ngang 70.5mm - Dày 7.2mm",
+        "weight": "162g",
+        "wateranddustresistancerating": "IP68",
+        "otherutilities": "Thực hiện tác vụ liên ứng dụng bằng lời nói (Seamless Actions across Apps) \n Biên tập Video thông minh (Auto trim) \n Khoanh tròn để tìm kiếm (Circle to Search) \n Trợ lý cuộc gọi (Call Assist) \n Trợ lý chỉnh ảnh (Photo Assist)",
+        "audiotechnology": "Lọc âm thanh (Audio Eraser)",
+        "specialfeatures": "Hỗ trợ 5G \n Nhận diện khuôn mặt \n Kháng nước, kháng bụi \n Điện thoại AI",
+        "wifi": "802.11a/b/g/n/ac/ax/be 2.4GHz+5GHz+6GHz \n EHT320 \n MIMO \n 4096-QAM",
+        "bluetooth": "Bluetooth v5.4",
+        "releasedate": "02-2025",
+        "price": [
+            { "storage1": "256GB", "price1": "22.990.000", "soldout": 0 },
+            { "storage2": "512GB", "price2": "26.490.000", "soldout": 0 }
+        ],
+        "storage_options": [
+            {
+                "storage1": "256GB",
+                "colors1": [
+                    {
+                        "color1": "Xanh lá",
+                        "price1": "19.690.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Xám bạc",
+                        "price2": "19.690.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Xanh da trời",
+                        "price3": "19.690.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Xanh navy",
+                        "price4": "19.690.000",
+                        "soldout": 0
+                    }
+                ]
+            },
+            {
+                "storage2": "512GB",
+                "colors2": [
+                    {
+                        "color1": "Xanh lá",
+                        "price1": "22.690.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Xám bạc",
+                        "price2": "22.690.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Xanh da trời",
+                        "price3": "22.690.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Xanh navy",
+                        "price4": "22.690.000",
+                        "soldout": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "brand": "Samsung",
+        "name": "Samsung Galaxy Z Flip6",
+        "displaysize": "6.7 inches",
+        "displaytechnology": "Dynamic AMOLED 2X",
+        "displayresolution": "1080 x 2640 pixels",
+        "display_features": "Màn hình chính: 6.7 inch, 2640 x 1080 (FHD+), 120 Hz, độ sâu màu sắc: 16M, 1600nits \n Màn hình phụ: 3.4\", 720 x 748, Super AMOLED, độ sâu màu sắc: 16M, 1600nits \n Kính Corning® Gorilla® Glass Victus® 2",
+        "refresh rate": "120Hz",
+        "displaytype": "Màn hình gập",
+        "backcamera": "Camera góc chụp rộng: 50.0 MP, f/1.8, thu phóng quang học 2x \n Góc chụp siêu rộng: 12.0 MP, f/2.2",
+        "backcameravideorecord": "UHD 4K (3840 x 2160)@60fps \n 240fps @FHD \n 120fps @FHD",
+        "backcamerafeatures": "Tự động lấy nét \n OIS \n Optical quality Zoom 2x \n Auto Zoom \n Dual Preview \n FlexMode \n FlexCam Selfie",
+        "frontcamera": "10.0 MP, f/2.2",
+        "chipset": "Snapdragon 8 Gen 3 for Galaxy Tăng lên 42% AI",
+        "ncftechnology": "Có",
+        "simcard": "1 Nano SIM + 1 eSIM hoặc 2 eSIM",
+        "networksupport": "5G",
+        "gps": "GPS \n Glonass \n Beidou \n Galileo \n QZSS",
+        "memory": "12 GB",
+        "internalstorage": "256 GB",
+        "battery": "4000 mAh",
+        "chargingport": "USB Type-C",
+        "osversion": "Android",
+        "cputype": "8 nhân 3.39 GHz \n 3.1GHz \n 2.9GHz \n 2.2GHz",
+        "size": "165.1 x 71.9 x 6.9 mm",
+        "weight": "187 g",
+        "wateranddustresistancerating": "IP48",
+        "otherutilities": "Samsung Care+ \n Samsung Health \n Samsung Wallet",
+        "audiotechnology": "Hỗ Trợ Âm Thanh Nổi",
+        "typesofsensors": "Cảm biến gia tốc \n Cảm biến tiệm cận \n Cảm biến ánh sáng \n La bàn \n Cảm biến áp kế \n Cảm biến trọng lực",
+        "specialfeatures": "Hỗ trợ 5G \n Bảo mật vân tay \n Nhận diện khuôn mặt \n Kháng nước, kháng bụi \n Điện thoại AI",
+        "wifi": "Wi-Fi 802.11a/b/g/n/ac/ax \n 2.4GHz+5GHz+6GHz",
+        "bluetooth": "v5.3",
+        "releasedate": "02-2025",
+        "price": [
+            { "storage1": "256GB", "price1": "28.990.000", "soldout": 0 },
+            { "storage2": "512GB", "price2": "32.990.000", "soldout": 2 }
+        ],
+        "storage_options": [
+            {
+                "storage1": "256GB",
+                "colors1": [
+                    {
+                        "color1": "Đen",
+                        "price1": "19.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Xám",
+                        "price2": "19.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Xanh dương",
+                        "price3": "19.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Xanh lá",
+                        "price4": "19.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color5": "Vàng",
+                        "price5": "19.990.000",
+                        "soldout": 0
+                    }
+                ]
+            },
+            {
+                "storage2": "512GB",
+                "colors2": [
+                    {
+                        "color1": "Đen",
+                        "price1": "23.990.000",
+                        "soldout": 2
+                    },
+                    {
+                        "color2": "Xám",
+                        "price2": "23.990.000",
+                        "soldout": 2
+                    },
+                    {
+                        "color3": "Xanh dương",
+                        "price3": "23.990.000",
+                        "soldout": 2
+                    },
+                    {
+                        "color4": "Xanh lá",
+                        "price4": "23.990.000",
+                        "soldout": 2
+                    },
+                    {
+                        "color5": "Vàng",
+                        "price5": "23.990.000",
+                        "soldout": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "brand": "Samsung",
+        "name": "Samsung Galaxy S24 Ultra",
+        "displaysize": "6.8 inches",
+        "displaytechnology": "Dynamic AMOLED 2X",
+        "displayresolution": "1440 x 3120 pixels",
+        "display_features": "Độ sáng cao nhất 2,600 nits \n 120Hz \n Corning® Gorilla® Armor® \n 16 triệu màu",
+        "refresh rate": "120Hz",
+        "displaytype": "Đục lỗ (Nốt ruồi)",
+        "backcamera": "Camera chính: 200MP, Laser AF, OIS \n Camera: 50MP, PDAF, OIS, zoom quang học 5x \n Camera tele: 10MP \n Camera góc siêu rộng: 12 MP, f/2.2, 13mm, 120˚",
+        "backcameravideorecord": "8K@24/30fps \n 4K@30/60/120fps \n 1080p@30/60/240fps \n 1080p@960fps",
+        "backcamerafeatures": "Trợ lí Chỉnh ảnh (Gợi ý chỉnh sửa, Hậu kì sáng tạo) \n Chụp đêm Nightography \n Chế độ Super HDR \n Chụp hình & quay phim với Portrait AI \n Chống rung quang học OIS & Chống rung kỹ thuật số AI VDIS \n Zoom kĩ thuật số 100x \n Zoom quang học 3x & 10x",
+        "frontcamera": "12 MP, f/2.2",
+        "chipset": "Snapdragon 8 Gen 3 For Galaxy",
+        "gpu": "Adreno 750 (1 GHz)",
+        "ncftechnology": "Có",
+        "simcard": "SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM",
+        "networksupport": "5G",
+        "gps": "GPS \n Glonass \n Beidou \n Galileo \n QZSS",
+        "memory": "12 GB",
+        "internalstorage": "256 GB",
+        "battery": "5,000mAh",
+        "chargingtechnology": "Sạc nhanh 45W \n Chia sẻ pin không dây \n Sạc siêu nhanh \n Sạc không dây",
+        "chargingport": "USB Type-C",
+        "osversion": "Android 14, One UI 6.1",
+        "cputype": "3.39GHz \n 3.1GHz \n 2.9GHz \n 2.2GHz",
+        "size": "162.3 x 79.0 x 8.6mm",
+        "weight": "232g",
+        "backpanelmaterial": "Kính",
+        "framematerial": "Titanium",
+        "compatibility": "Bút SPEN - tích hợp sẵn lên máy",
+        "wateranddustresistancerating": "IP68",
+        "otherutilities": "Samsung DeX (Kết nối màn hình sử dụng giao diện tương tự PC) \n Chặn cuộc gọi \n Chặn tin nhắn \n Tối ưu game (Game Booster) \n Tối ưu hiển thị (Vision Booster) \n Samsung Wallet (Samsung Pay) \n Thu nhỏ màn hình sử dụng một tay \n Không gian thứ hai (Thư mục bảo mật)",
+        "audiotechnology": "Âm thanh AKG \n Âm thanh Dolby Atmos",
+        "typesofsensors": "Cảm biến gia tốc \n Cảm biến tiệm cận \n Cảm biến ánh sáng \n La bàn \n Con quay hồi chuyển \n Cảm biến áp kế \n Cảm biến trọng lực",
+        "specialfeatures": "Hỗ trợ 5G \n Bảo mật vân tay \n Nhận diện khuôn mặt \n Kháng nước, kháng bụi \n Điện thoại AI \n Đi kèm bút cảm ứng",
+        "wifi": "802.11a/b/g/n/ac/ax/be 2.4GHz+5GHz+6GHz \n EHT320 \n MIMO \n 4096-QAM",
+        "bluetooth": "v5.3",
+        "releasedate": "01-2024",
+        "price": [
+            { "storage1": "256GB", "price1": "28.990.000", "soldout": 0 },
+            { "storage2": "512GB", "price2": "32.990.000", "soldout": 0 },
+            { "storage3": "1TB", "price3": "32.990.000", "soldout": 2 }
+        ],
+        "storage_options": [
+            {
+                "storage1": "256GB",
+                "colors1": [
+                    {
+                        "color1": "Vàng",
+                        "price1": "24.290.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Xám",
+                        "price2": "24.290.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Tím",
+                        "price3": "24.290.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Đen",
+                        "price4": "24.290.000",
+                        "soldout": 0
+                    }
+                ]
+            },
+            {
+                "storage2": "512GB",
+                "colors2": [
+                    {
+                        "color1": "Vàng",
+                        "price1": "25.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Xám",
+                        "price2": "25.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Tím",
+                        "price3": "25.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Đen",
+                        "price4": "25.990.000",
+                        "soldout": 0
+                    }
+                ]
+            },
+            {
+                "storage3": "1TB",
+                "colors3": [
+                    {
+                        "color1": "Vàng",
+                        "price1": "44.490.000",
+                        "soldout": 2
+                    },
+                    {
+                        "color2": "Xám",
+                        "price2": "44.490.000",
+                        "soldout": 2
+                    },
+                    {
+                        "color3": "Tím",
+                        "price3": "44.490.000",
+                        "soldout": 2
+                    },
+                    {
+                        "color4": "Đen",
+                        "price4": "44.490.000",
+                        "soldout": 2
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1223 @@
+[
+    {
+        "id": 1,
+        "brand": "Apple",
+        "name": "iPhone 16 Pro Max (VN/A)",
+        "displaysize": "6.9 inches",
+        "displaytechnology": "Super Retina XDR OLED",
+        "displayresolution": "2868 x 1320 pixels",
+        "displayfeatures": "Dynamic Island \n Always on Display \n Công nghệ ProMotion với tốc độ làm mới thích ứng lên đến 120Hz \n Màn hình HDR \n True Tone \n Dải màu động (P3) \n Haptic Touch \n Tỷ lệ tương phản 2.000.000:1",
+        "refresh rate": "120Hz",
+        "displaytype": "Dynamic Island",
+        "backcamera": "Camera chính: 48MP, f/1.78, 24mm, 2µm, chống rung quang học dịch chuyển cảm biến thế hệ thứ hai, Focus Pixels 100% \n Telephoto 2x 12MP: 52 mm, ƒ/1.6 \n Camera góc siêu rộng: 48MP, 13 mm,ƒ/2.2 và trường ảnh 120°, Hybrid Focus Pixels, ảnh có độ phân giải",
+        "backcameravideorecord": "4K@24 fps, 4K@25 fps, 4K@30 fps, 4K@60 fps, 4K@100 fps, 4K@120 fps 1080p@25fps, 1080p@30 fps, 1080p@60 fps hoặc 1080p@120 fps720p@30 fps",
+        "backcamerafeatures": "Flash True Tone \n Photonic Engine \n Deep Fusion \n HDR thông minh thế hệ 5 \n Hiệu ứng Chiếu Sáng Chân Dung với sáu chế độ \n Chế độ Ban Đêm \n Chụp ảnh toàn cảnh Panorama (lên đến 63MP) \n Phong Cách Nhiếp Ảnh thế hệ mới nhất \n Ảnh không gian",
+        "frontcamera": "12MP, ƒ/1.9, Tự động lấy nét theo pha Focus Pixels",
+        "frontcameravideorecord": "4K@24 fps, 4K@25 fps, 4K@30 fps, 4K@60 fps 1080p@25fps, 1080p@30 fps, hoặc 1080p@60 fps",
+        "chipset": "Apple A18 Pro",
+        "gpu": "CPU 6 lõi mới",
+        "ncftechnology": "Có",
+        "simcard": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "networksupport": "5G",
+        "gps": "GPS, GLONASS, Galileo, QZSS, BeiDou và NavIC",
+        "memory": "8GB",
+        "osversion": "iOS 18",
+        "gputype": "CPU 6 lõi mới với 2 lõi hiệu năng và 4 lõi hiệu suất",
+        "size": "163 x 77,6 x 8,25 mm",
+        "weight": "227gram",
+        "backpanelmaterial": "Kính",
+        "framematerial": "Titanium",
+        "compatibility": "Tương Thích Với Thiết Bị Trợ Thính",
+        "wateranddustresistancerating": "IP68 chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút) theo tiêu chuẩn IEC 60529",
+        "technologyandfeatures": "Face ID, FaceTime",
+        "otherutilities": "Apple Pay \n SOS Khẩn Cấp \n Phát Hiện Va Chạm",
+        "audiotechnology": "AAC, APAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus, và Dolby Atmos",
+        "battery": "4676 mAh",
+        "chargingtechnology": "Sạc không dây MagSafe lên đến 25W với bộ tiếp hợp 30W trở lên \n Sạc không dây Qi2 lên đến 15W \n Sạc không dây Qi lên đến 7,5W",
+        "chargingport": "USB Type-C",
+        "typesofsensors": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế, Cảm biến trọng lực",
+        "specialfeatures": "Hỗ trợ 5G, Sạc không dây, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI",
+        "wifi": "WiFi 7 (802.11be) với 2x2 MIMO7",
+        "bluetooth": "Bluetooth 5.3",
+        "releasedate": "09/2024",
+        "price": [
+            { "storage1": "256GB", "price1": "34.990.000", "soldout": 0 },
+            { "storage2": "512GB", "price2": "40.990.000", "soldout": 0 },
+            { "storage3": "1TB", "price3": "46.990.000", "soldout": 0 }
+        ],
+        "storage_options": [
+            {
+                "storage1": "256GB",
+                "colors1": [
+                    {
+                        "color1": "Titan Tự nhiên",
+                        "price1": "30.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Titan Đen",
+                        "price2": "30.890.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Titan Trắng",
+                        "price3": "30.890.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Titan Sa mạc",
+                        "price3": "30.690.000",
+                        "soldout": 0
+                    }
+                ]
+            },
+            {
+                "storage2": "512GB",
+                "colors2": [
+                    {
+                        "color1": "Titan Tự nhiên",
+                        "price1": "37.490.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Titan Đen",
+                        "price2": "37.390.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Titan Trắng",
+                        "price3": "37.490.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Titan Sa mạc",
+                        "price4": "37.290.000",
+                        "soldout": 0
+                    }
+                ]
+            },
+            {
+                "storage3": "1TB",
+                "colors3": [
+                    {
+                        "color1": "Titan Tự nhiên",
+                        "price1": "42.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Titan Đen",
+                        "price2": "42.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Titan Trắng",
+                        "price3": "42.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Titan Sa mạc",
+                        "price4": "42.990.000",
+                        "soldout": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "brand": "Apple",
+        "name": "iPhone 16 Pro (VN/A)",
+        "displaysize": "6.3 inches",
+        "displaytechnology": "Super Retina XDR OLED",
+        "displayresolution": "2622 x 1206 pixels",
+        "display_features": "Dynamic Island \n Màn hình HDR \n True Tone \n Dải màu rộng (P3) \n Haptic Touch \n Tỷ lệ tương phản 2.000.000:1 \n Độ sáng tối đa 1000 nit \n 460 ppi \n Lớp phủ kháng dầu chống in dấu vân tay \n Hỗ trợ hiển thị đồng thời nhiều ngôn ngữ và ký tự",
+        "refresh rate": "120Hz",
+        "displaytype": "Dynamic Island",
+        "backcamera": "Camera chính: 48MP, f/1.78, 24mm, chống rung quang học dịch chuyển cảm biến thế hệ thứ hai, Focus Pixels 100%, hỗ trợ ảnh có độ phân giải siêu cao Hỗ trợ Telephoto 2x 12MP: 52 mm, ƒ/1.6 \n Camera góc siêu rộng: 48MP, 13 mm, ƒ/2.2 và trường ảnh 120°, H",
+        "backcameravideorecord": "Quay video 4K Dolby Vision ở tốc độ 24 fps \n Quay video 1080p Dolby Vision \n Quay video 720p Dolby Vision",
+        "backcamerafeatures": "Flash True Tone \n Photonic Engine \n Deep Fusion \n HDR thông minh thế hệ 5 \n Hiệu ứng Chiếu Sáng Chân Dung với sáu chế độ \n Chế độ Ban Đêm \n Chụp ảnh toàn cảnh Panorama (lên đến 63MP) \n Phong Cách Nhiếp Ảnh thế hệ mới nhất \n Ảnh không gian",
+        "frontcamera": "12MP, ƒ/1.9, Tự động lấy nét theo pha Focus Pixels",
+        "frontcameravideorecord": "4K@24 fps, 4K@25 fps, 4K@30 fps, 4K@60 fps \n 1080p@25fps, 1080p@30 fps, hoặc 1080p@60 fps",
+        "chipset": "Apple A18 Pro",
+        "gpu": "GPU 6 lõi mới",
+        "ncftechnology": "Có",
+        "simcard": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "networksupport": "5G",
+        "gps": "GPS, GLONASS, Galileo, QZSS và BeiDou",
+        "memory": "8GB",
+        "osversion": "iOS 18",
+        "gputype": "CPU 6 lõi mới với 2 lõi hiệu năng và 4 lõi tiết kiệm điện",
+        "size": "Rộng: 71,5 mm Cao: 149,6 mm Dày: 8,25 mm",
+        "weight": "199 gram",
+        "backpanelmaterial": "Kính",
+        "framematerial": "Titanium",
+        "compatibility": "Tương Thích Với Thiết Bị Trợ Thính",
+        "wateranddustresistancerating": "IP68 chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút) theo tiêu chuẩn IEC 60529",
+        "technologyandfeatures": "Face ID, FaceTime",
+        "otherutilities": "Apple Pay \n SOS Khẩn Cấp \n Phát Hiện Va Chạm",
+        "audiotechnology": "AAC, APAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus, và Dolby Atmos",
+        "battery": "3.355 mAh",
+        "chargingtechnology": "Sạc không dây MagSafe lên đến 25W với bộ tiếp hợp 30W trở lên \n Sạc không dây Qi2 lên đến 15W \n Sạc không dây Qi lên đến 7,5W",
+        "chargingport": "USB Type-C",
+        "typesofsensors": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế, Cảm biến trọng lực",
+        "specialfeatures": "Hỗ trợ 5G, Sạc không dây, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI",
+        "wifi": "WiFi 7 (802.11be) với 2x2 MIMO7",
+        "bluetooth": "Bluetooth 5.3",
+        "releasedate": "9/2024",
+        "price": [
+            { "storage1": "128GB", "price1": "28.990.000", "soldout": 0 },
+            { "storage2": "256GB", "price2": "31.990.000", "soldout": 0 },
+            { "storage3": "512GB", "price3": "37.990.000", "soldout": 0 },
+            { "storage4": "1TB", "price4": "43.990.000", "soldout": 1 }
+        ],
+        "storage_options": [
+            {
+                "storage1": "128GB",
+                "colors1": [
+                    {
+                        "color1": "Titan Tự nhiên",
+                        "price1": "25.290.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Titan Đen",
+                        "price2": "25.190.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Titan Trắng",
+                        "price3": "25.290.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Titan Sa mạc",
+                        "price4": "25.190.000",
+                        "soldout": 0
+                    }
+                ]
+            },
+            {
+                "storage2": "256GB",
+                "colors2": [
+                    {
+                        "color1": "Titan Tự nhiên",
+                        "price1": "28.490.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Titan Đen",
+                        "price2": "28.290.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Titan Trắng",
+                        "price3": "28.490.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Titan Sa mạc",
+                        "price4": "28.490.000",
+                        "soldout": 0
+                    }
+                ]
+            },
+            {
+                "storage3": "512GB",
+                "colors3": [
+                    {
+                        "color1": "Titan Tự nhiên",
+                        "price1": "34.690.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Titan Đen",
+                        "price2": "34.690.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Titan Trắng",
+                        "price3": "34.690.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Titan Sa mạc",
+                        "price4": "34.690.000",
+                        "soldout": 0
+                    }
+                ]
+            },
+            {
+                "storage4": "1TB",
+                "colors4": [
+                    {
+                        "color1": "Titan Tự nhiên",
+                        "price1": "39.490.000",
+                        "soldout": 1
+                    },
+                    {
+                        "color2": "Titan Đen",
+                        "price2": "39.490.000",
+                        "soldout": 1
+                    },
+                    {
+                        "color3": "Titan Trắng",
+                        "price3": "39.490.000",
+                        "soldout": 1
+                    },
+                    {
+                        "color4": "Titan Sa mạc",
+                        "price4": "39.490.000",
+                        "soldout": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "brand": "Apple",
+        "name": "iPhone 16 Plus (VN/A)",
+        "displaysize": "6.7 inches",
+        "displaytechnology": "Super Retina XDR OLED",
+        "displayresolution": "2796 x 1290-pixel",
+        "display_features": "Dynamic Island \n Màn hình HDR \n True Tone \n Dải màu rộng (P3) \n Haptic Touch \n Tỷ lệ tương phản 2.000.000:1 \n Độ sáng tối đa 1000 nit \n 460 ppi \n Lớp phủ kháng dầu chống in dấu vân tay \n Hỗ trợ hiển thị đồng thời nhiều ngôn ngữ và ký tự",
+        "refresh rate": "60Hz",
+        "displaytype": "Dynamic Island",
+        "backcamera": "Camera chính: 48MP, f/1.6, 26mm, Focus Pixels 100%, hỗ trợ ảnh có độ phân giải siêu cao \n Camera góc siêu rộng: 12MP, ƒ/2.2, 13 mm, Focus Pixels 100%, Độ phóng đại quang học 2x, độ thu nhỏ quang học 2x; phạm vi thu phóng quang học 4x Độ thu phóng kỹ thu",
+        "backcameravideorecord": "4K@24 fps, 4K@25 fps, 4K@30 fps, 4K@60 fps \n 1080p@25fps, 1080p@30 fps, hoặc 1080p@60 fps",
+        "backcamerafeatures": "Flash True Tone \n Photonic Engine \n Deep Fusion \n HDR thông minh thế hệ 5 \n Hiệu ứng Chiếu Sáng Chân Dung với sáu chế độ \n Chế độ Ban Đêm \n Chụp ảnh toàn cảnh Panorama (lên đến 63MP) \n Phong Cách Nhiếp Ảnh thế hệ mới nhất \n Ảnh không gian",
+        "frontcamera": "12MP, ƒ/1.9, Tự động lấy nét theo pha Focus Pixels",
+        "frontcameravideorecord": "4K@24 fps, 4K@25 fps, 4K@30 fps, 4K@60 fps \n 1080p@25fps, 1080p@30 fps, hoặc 1080p@60 fps",
+        "chipset": "Apple A18",
+        "gpu": "GPU 5 lõi mới",
+        "ncftechnology": "Có",
+        "simcard": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "networksupport": "5G",
+        "gps": "GPS, GLONASS, Galileo, QZSS và BeiDou",
+        "memory": "8GB",
+        "osversion": "iOS 18",
+        "gputype": "CPU 6 lõi mới với 2 lõi hiệu năng và 4 lõi tiết kiệm điện",
+        "size": "160,9 x 77,8 x 7,80 mm",
+        "weight": "199 gram",
+        "backpanelmaterial": "Kính",
+        "framematerial": "Nhôm",
+        "compatibility": "",
+        "wateranddustresistancerating": "Đạt mức IP68 (chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút) theo tiêu chuẩn IEC 60529",
+        "technologyandfeatures": "Face ID, SharePlay",
+        "otherutilities": "Apple Pay \n SOS Khẩn Cấp \n Phát Hiện Va Chạm",
+        "audiotechnology": "AAC, APAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus, và Dolby Atmos",
+        "battery": "4.006 mAh",
+        "chargingtechnology": "Sạc không dây lên đến 25W \n Sạc không dây Qi2 lên đến 15W \n Sạc không dây Qi lên đến 7,5W",
+        "chargingport": "USB Type-C",
+        "typesofsensors": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế, Cảm biến trọng lực",
+        "specialfeatures": "Hỗ trợ 5G, Sạc không dây, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI",
+        "wifi": "WiFi 7 (802.11be) với 2x2 MIMO7",
+        "bluetooth": "Bluetooth 5.3",
+        "releasedate": "9/2024",
+        "price": [
+            { "storage1": "128GB", "price1": "25.990.000", "soldout": 0 },
+            { "storage2": "256GB", "price2": "28.990.000", "soldout": 0 },
+            { "storage3": "512GB", "price3": "34.990.000", "soldout": 1 }
+        ],
+        "storage_options": [
+            {
+                "storage1": "128GB",
+                "colors1": [
+                    {
+                        "color1": "Titan Tự nhiên",
+                        "price1": "30.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Titan Đen",
+                        "price2": "30.890.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Titan Trắng",
+                        "price3": "30.890.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Titan Sa mạc",
+                        "price3": "30.690.000",
+                        "soldout": 0
+                    }
+                ]
+            },
+            {
+                "storage2": "256GB",
+                "colors2": [
+                    {
+                        "color1": "Titan Tự nhiên",
+                        "price1": "37.490.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Titan Đen",
+                        "price2": "37.390.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Titan Trắng",
+                        "price3": "37.490.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Titan Sa mạc",
+                        "price4": "37.290.000",
+                        "soldout": 1
+                    }
+                ]
+            },
+            {
+                "storage3": "512TB",
+                "colors3": [
+                    {
+                        "color1": "Titan Tự nhiên",
+                        "price1": "42.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Titan Đen",
+                        "price2": "42.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color3": "Titan Trắng",
+                        "price3": "42.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color4": "Titan Sa mạc",
+                        "price4": "42.990.000",
+                        "soldout": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "brand": "Apple",
+        "name": "iPhone 16e (VN/A)",
+        "displaysize": "6.1 inches",
+        "displaytechnology": "Super Retina XDR",
+        "displayresolution": "2532 x 1170-pixel",
+        "display_features": "Màn hình HDR \n True Tone \n Dải màu rộng (P3) \n Haptic Touch \n Tỷ lệ tương phản 2.000.000:1 (tiêu chuẩn) \n Độ sáng tối đa 800 nit (tiêu chuẩn); độ sáng đỉnh 1200 nit (HDR) \n Lớp phủ kháng dầu chống in dấu vân tay \n Thu Phóng Màn Hình",
+        "refresh rate": "60Hz",
+        "displaytype": "Tai thỏ",
+        "backcamera": "Hệ thống camera 2 trong 1 \n Fusion 48MP: 26 mm, khẩu độ ƒ/1.6, chống rung quang học, Hybrid Focus Pixels, ảnh có độ phân giải siêu cao (24MP và 48MP) \n Đồng thời hỗ trợ Telephoto 2x 12MP: 52 mm, khẩu độ ƒ/1.6, chống rung quang học, Hybrid Focus Pixels",
+        "backcameravideorecord": "Quay video 4K Dolby Vision ở tốc độ 24 fps, 25 fps, 30 fps hoặc 60 fps \n Hỗ trợ quay video chậm 1080p ở tốc độ 120 fps hoặc 240 fps \n Chế độ quay video QuickTake \n Chống rung quang học cho video \n Video tự động lấy nét liên tiếp",
+        "backcamerafeatures": "Độ thu phóng kỹ thuật số lên đến 10x \n Lớp bảo vệ ống kính bằng sapphire \n Flash True Tone \n HDR thông minh thế hệ 5 \n Chế độ chụp Chân Dung với tính năng \n Điều Khiển Chiều Sâu \n Chụp ảnh toàn cảnh Panorama (lên đến 63MP) \n Deep Fusion",
+        "frontcamera": "Camera 12MP Khẩu độ ƒ/1.9 \n Camera TrueDepth hỗ trợ nhận diện khuôn mặt",
+        "frontcameravideorecord": "",
+        "chipset": "Apple A18",
+        "gpu": "GPU 4 lõi mới \n Neural Engine 16 lõi mới",
+        "ncftechnology": "Có",
+        "simcard": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "networksupport": "5G",
+        "gps": "GPS, GLONASS, Galileo, QZSS, BeiDou và NavIC \n La bàn kỹ thuật số \n Mạng di động \n Định vị vi mô iBeacon",
+        "memory": "8GB",
+        "osversion": "iOS 18",
+        "gputype": "CPU 6 lõi mới với 2 lõi hiệu năng và 4 lõi tiết kiệm điện",
+        "size": "Rộng: 71.5 mm - Cao: 146.7 mm - Dày: 7.80 mm",
+        "weight": "167 gram",
+        "backpanelmaterial": "",
+        "framematerial": "",
+        "compatibility": "Sạc USB-C \n Sạc không dây (tương thích sạc không dây Qi lên đến 7.5W)",
+        "wateranddustresistancerating": "Đạt mức IP68 (chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút) theo tiêu chuẩn IEC 60529",
+        "technologyandfeatures": "Thanh toán qua iPhone tại các cửa hàng, bên trong các ứng dụng và trên các trang web bằng cách sử dụng Face ID \n SOS Khẩn Cấp \n Phát Hiện Va Chạm",
+        "otherutilities": "Tương Thích Với Thiết Bị Trợ Thính AirPlay có thể phản chiếu màn hình, ảnh và video có độ phân giải lên đến 4K HDR lên Apple TV (thế hệ thứ 2 trở lên) hoặc TV thông minh có hỗ trợ AirPlay",
+        "audiotechnology": "Các định dạng được hỗ trợ bao gồm AAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus, và Dolby Atmos \n Chế độ Âm Thanh Không Gian \n Loa stereo tích hợp sẵn \n Micrô tích hợp sẵn",
+        "battery": "3.961 mAh \n Thời gian xem video Lên đến 26 giờ \n Thời gian xem video (trực tuyến) Lên đến 21 giờ \n Thời gian nghe nhạc Lên đến 90 giờ",
+        "chargingtechnology": "Khả năng sạc nhanh Sạc lên đến 50% trong 30 phút với bộ tiếp hợp 20W trở lên (được bán riêng)",
+        "chargingport": "USB Type-C",
+        "typesofsensors": "Cảm biến gia tốc, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn, Con quay hồi chuyển, Cảm biến áp kế",
+        "specialfeatures": "Hỗ trợ 5G, Sạc không dây, Nhận diện khuôn mặt, Kháng nước, kháng bụi, Điện thoại AI",
+        "wifi": "WiFi 6 (802.11ax) với 2x2 MIMO",
+        "bluetooth": "Bluetooth 5.3",
+        "releasedate": "2/2025",
+        "price": [
+            { "storage1": "128GB", "price1": "16.990.000", "soldout": 0 },
+            { "storage2": "256GB", "price2": "19.990.000", "soldout": 2 },
+            { "storage3": "512GB", "price3": "25.990.000", "soldout": 1 }
+        ],
+        "storage_options": [
+            {
+                "storage1": "128GB",
+                "colors1": [
+                    {
+                        "color1": "Đen",
+                        "price1": "16.190.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Trắng",
+                        "price2": "16.290.000",
+                        "soldout": 0
+                    }
+                ]
+            },
+            {
+                "storage2": "256GB",
+                "colors2": [
+                    {
+                        "color1": "Trắng",
+                        "price1": "19.290.000",
+                        "soldout": 2
+                    },
+                    {
+                        "color2": "Đen",
+                        "price2": "19.290.000",
+                        "soldout": 2
+                    }
+                ]
+            },
+            {
+                "storage3": "512TB",
+                "colors3": [
+                    {
+                        "color1": "Titan Tự nhiên",
+                        "price1": "25.490.000",
+                        "soldout": 1
+                    },
+                    {
+                        "color2": "Titan Đen",
+                        "price2": "25.490.000",
+                        "soldout": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "brand": "Apple",
+        "name": "iPhone 16 (VN/A)",
+        "displaysize": "6.1 inches",
+        "displaytechnology": "Super Retina XDR OLED",
+        "displayresolution": "2556 x 1179 pixels",
+        "display_features": "Dynamic Island \n Màn hình HDR \n True Tone \n Dải màu rộng (P3) \n Haptic Touch \n Tỷ lệ tương phản 2.000.000:1 \n Độ sáng tối đa 1000 nit \n 460 ppi \n Lớp phủ kháng dầu chống in dấu vân tay \n Hỗ trợ hiển thị đồng thời nhiều ngôn ngữ và ký tự",
+        "refresh rate": "60Hz",
+        "displaytype": "Dynamic Island",
+        "backcamera": "Camera chính: 48MP, f/1.6, 26mm, Focus Pixels 100%, hỗ trợ ảnh có độ phân giải siêu cao \n Camera góc siêu rộng: 12MP, ƒ/2.2, 13 mm, Focus Pixels 100%, Độ phóng đại quang học 2x, độ thu nhỏ quang học 2x; phạm vi thu phóng quang học 4x",
+        "backcameravideorecord": "4K@24 fps \n 4K@25 fps \n 4K@30 fps \n 4K@60 fps \n 1080p@25fps \n 1080p@30 fps \n 1080p@60 fps",
+        "backcamerafeatures": "Flash True Tone \n Photonic Engine \n Deep Fusion \n HDR thông minh thế hệ 5 \n Hiệu ứng Chiếu Sáng Chân Dung với sáu chế độ \n Chế độ Ban Đêm \n Chụp ảnh toàn cảnh Panorama (lên đến 63MP) \n Phong Cách Nhiếp Ảnh thế hệ mới nhất \n Ảnh không gian",
+        "frontcamera": "12MP, ƒ/1.9, Tự động lấy nét theo pha Focus Pixels",
+        "frontcameravideorecord": "4K@24 fps \n 4K@25 fps \n 4K@30 fps \n 4K@60 fps \n 1080p@25fps \n 1080p@30 fps \n 1080p@60 fps",
+        "chipset": "Apple A18",
+        "gpu": "GPU 5 lõi mới",
+        "ncftechnology": "Có",
+        "simcard": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "networksupport": "5G",
+        "gps": "GPS, GLONASS, Galileo, QZSS và BeiDou",
+        "memory": "8GB",
+        "osversion": "iOS 18",
+        "gputype": "CPU 6 lõi mới với 2 lõi hiệu năng và 4 lõi tiết kiệm điện",
+        "size": "147,6 x 71,6 x 7,80 mm",
+        "weight": "170 gram",
+        "backpanelmaterial": "Kính",
+        "framematerial": "Nhôm",
+        "chargingtechnology": "Sạc không dây lên đến 25W \n Sạc không dây Qi2 lên đến 15W \n Sạc không dây Qi lên đến 7,5W",
+        "chargingport": "USB Type-C",
+        "wateranddustresistancerating": "Đạt mức IP68 (chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút) theo tiêu chuẩn IEC 60529",
+        "technologyandfeatures": "Face ID \n SharePlay",
+        "otherutilities": "Apple Pay \n SOS Khẩn Cấp \n Phát Hiện Va Chạm",
+        "audiotechnology": "AAC \n APAC \n MP3 \n Apple Lossless \n FLAC \n Dolby Digital \n Dolby Digital Plus \n Dolby Atmos",
+        "typesofsensors": "Cảm biến gia tốc \n Cảm biến tiệm cận \n Cảm biến ánh sáng \n La bàn \n Con quay hồi chuyển \n Cảm biến áp kế \n Cảm biến trọng lực",
+        "specialfeatures": "Hỗ trợ 5G \n Sạc không dây \n Nhận diện khuôn mặt \n Kháng nước, kháng bụi \n Điện thoại AI",
+        "wifi": "WiFi 7 (802.11be) với 2x2 MIMO7",
+        "bluetooth": "Bluetooth 5.3",
+        "releasedate": "09/2024",
+        "price": [
+            { "storage1": "128GB", "price1": "22.990.000", "soldout": 0 },
+            { "storage2": "256GB", "price2": "25.990.000", "soldout": 0 },
+            { "storage3": "512GB", "price3": "31.990.000", "soldout": 0 }
+        ],
+        "storage_options": [
+            {
+                "storage1": "128GB",
+                "colors1": [
+                    {
+                        "color1": "Đen",
+                        "price1": "19.190.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color2": "Trắng",
+                        "price2": "19.190.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color3": "Hồng",
+                        "price3": "19.190.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color4": "Xanh Mòng Két",
+                        "price4": "18.990.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color5": "Xanh Lưu Ly",
+                        "price5": "19.190.000",
+                        "soldout": "0"
+                    }
+                ]
+            },
+            {
+                "storage2": "256GB",
+                "colors2": [
+                    {
+                        "color1": "Đen",
+                        "price1": "22.590.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color2": "Trắng",
+                        "price2": "22.590.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color3": "Hồng",
+                        "price3": "22.290.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color4": "Xanh Mòng Két",
+                        "price4": "22.590.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color5": "Xanh Lưu Ly",
+                        "price5": "22.590.000",
+                        "soldout": "0"
+                    }
+                ]
+            },
+            {
+                "storage3": "512GB",
+                "colors3": [
+                    {
+                        "color1": "Đen",
+                        "price1": "27.990.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color2": "Trắng",
+                        "price2": "27.990.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color3": "Hồng",
+                        "price3": "27.990.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color4": "Xanh Mòng Két",
+                        "price4": "27.990.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color5": "Xanh Lưu Ly",
+                        "price5": "27.990.000",
+                        "soldout": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "brand": "Apple",
+        "name": "iPhone 15 Pro Max (VN/A)",
+        "displaysize": "6.7 inches",
+        "displaytechnology": "Super Retina XDR OLED",
+        "displayresolution": "2796 x 1290-pixel",
+        "display_features": "Tốc độ làm mới 120Hz \n 460 ppi \n HDR \n True Tone \n Dải màu rộng (P3) \n Haptic Touch \n Tỷ lệ tương phản 2.000.000:1",
+        "refresh rate": "120Hz",
+        "displaytype": "Dynamic Island",
+        "backcamera": "Camera chính: 48MP, 24 mm, ƒ/1.78 \n Camera góc siêu rộng: 12 MP, 13 mm, ƒ/2.2 \n Camera Tele 5x: 12 MP, 120 mm, ƒ/2.8",
+        "backcameravideorecord": "4K@24/25/30/60 fps \n HD 1080p@25/30/60 fps \n HD 720p@30 fps",
+        "backcamerafeatures": "Flash True Tone Thích Ứng \n Photonic Engine \n Deep Fusion \n HDR thông minh thế hệ 5 \n Ảnh chân dung thế hệ mới với Focus và Depth Control \n Hiệu ứng Chiếu Sáng Chân Dung với sáu chế độ \n Chế độ Ban Đêm",
+        "frontcamera": "12MP, ƒ/1.9",
+        "frontcameravideorecord": "4K@24/25/30/60 fps \n HD 1080p@25/30/60 fps",
+        "chipset": "Apple A17 Pro 6 nhân",
+        "gpu": "GPU 6 nhân mới",
+        "ncftechnology": "Có",
+        "simcard": "2 SIM (nano SIM và eSIM)",
+        "infrared": "Có",
+        "networksupport": "5G",
+        "gps": "GPS tần số kép chính xác (GPS, GLONASS, Galileo, QZSS, BeiDou và NavIC)",
+        "memory": "8 GB",
+        "battery": "4422 mAh",
+        "chargingtechnology": "Sạc nhanh 20W \n Sạc không dây 15W \n Sạc không dây",
+        "chargingport": "USB Type-C",
+        "osversion": "iOS 17",
+        "cputype": "CPU 6 lõi mới với 2 lõi hiệu năng và 4 lõi hiệu suất",
+        "size": "159,9 x 76,7 x 8,25 mm",
+        "weight": "221 g",
+        "backpanelmaterial": "Kính",
+        "framematerial": "Titanium",
+        "wateranddustresistancerating": "Đạt mức IP68 (chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút)",
+        "technologyandfeatures": "Camera TrueDepth hỗ trợ nhận diện khuôn mặt",
+        "otherutilities": "SOS Khẩn Cấp \n Phát Hiện Va Chạm",
+        "audiotechnology": "AAC \n MP3 \n Apple Lossless \n FLAC \n Dolby Digital \n Dolby Digital Plus \n Dolby Atmos",
+        "fingerprintscanner": "Không",
+        "typesofsensors": "Cảm biến gia tốc \n Cảm biến tiệm cận \n Cảm biến ánh sáng \n La bàn \n Con quay hồi chuyển \n Cảm biến áp kế \n Cảm biến trọng lực",
+        "specialfeatures": "Hỗ trợ 5G \n Sạc không dây \n Nhận diện khuôn mặt \n Kháng nước, kháng bụi",
+        "wifi": "WiFi 6E (802.11ax)",
+        "bluetooth": "5.3",
+        "releasedate": "09/2023",
+        "price": [
+            { "storage1": "256GB", "price1": "34.990.000", "soldout": 0 },
+            { "storage2": "512GB", "price2": "40.990.000", "soldout": 2 },
+            { "storage3": "1TB", "price3": "46.990.000", "soldout": 2 }
+        ],
+        "storage_options": [
+            {
+                "storage1": "256GB",
+                "colors1": [
+                    {
+                        "color1": "Titan Tự nhiên",
+                        "price1": "27.990.000",
+                        "soldout": "2"
+                    },
+                    {
+                        "color2": "Titan Xanh",
+                        "price2": "27.990.000",
+                        "soldout": "2"
+                    },
+                    {
+                        "color3": "Titan Trắng",
+                        "price3": "27.990.000",
+                        "soldout": "2"
+                    },
+                    {
+                        "color4": "Titan Đen",
+                        "price4": "27.990.000",
+                        "soldout": "2"
+                    }
+                ]
+            },
+            {
+                "storage2": "512GB",
+                "colors2": [
+                    {
+                        "color1": "Titan Tự nhiên",
+                        "price1": "31.990.000",
+                        "soldout": "2"
+                    },
+                    {
+                        "color2": "Titan Xanh",
+                        "price2": "30.990.000",
+                        "soldout": "1"
+                    },
+                    {
+                        "color3": "Titan Trắng",
+                        "price3": "30.990.000",
+                        "soldout": "1"
+                    },
+                    {
+                        "color4": "Titan Đen",
+                        "price4": "30.990.000",
+                        "soldout": "2"
+                    }
+                ]
+            },
+            {
+                "storage3": "1TB",
+                "colors3": [
+                    {
+                        "color1": "Titan Tự nhiên",
+                        "price1": "34.990.000",
+                        "soldout": "1"
+                    },
+                    {
+                        "color2": "Titan Xanh",
+                        "price2": "34.990.000",
+                        "soldout": "1"
+                    },
+                    {
+                        "color3": "Titan Trắng",
+                        "price3": "34.990.000",
+                        "soldout": "1"
+                    },
+                    {
+                        "color4": "Titan Đen",
+                        "price4": "34.990.000",
+                        "soldout": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "brand": "Apple",
+        "name": "iPhone 15 Pro (VN/A)",
+        "displaysize": "6.1 inches",
+        "displaytechnology": "Super Retina XDR OLED",
+        "displayresolution": "2556 x 1179 pixels",
+        "display_features": "Tốc độ làm mới 120Hz \n 460 ppi \n HDR \n True Tone \n Dải màu rộng (P3) \n Haptic Touch \n Tỷ lệ tương phản 2.000.000:1 \n Độ sáng 2.000 nit",
+        "refresh rate": "120Hz",
+        "displaytype": "Dynamic Island",
+        "backcamera": "Camera chính: 48MP, 24 mm, ƒ/1.78 \n Camera góc siêu rộng: 12 MP, 13 mm, ƒ/2.2 \n Camera Tele 3x: 12 MP, 77 mm, ƒ/2.8",
+        "backcameravideorecord": "4K@24/25/30/60 fps \n HD 1080p@25/30/60 fps \n HD 720p@30 fps",
+        "backcamerafeatures": "Flash True Tone Thích Ứng \n Photonic Engine \n Deep Fusion \n HDR thông minh thế hệ 5 \n Ảnh chân dung thế hệ mới với Focus và Depth Control \n Hiệu ứng Chiếu Sáng Chân Dung với sáu chế độ \n Chế độ Ban Đêm",
+        "frontcamera": "12MP, ƒ/1.9",
+        "frontcameravideorecord": "4K@24/25/30/60 fps \n HD 1080p@25/30/60 fps",
+        "chipset": "Apple A17 Pro 6 nhân",
+        "gpu": "GPU 6 nhân mới",
+        "ncftechnology": "Có",
+        "simcard": "2 SIM (nano-SIM và eSIM)",
+        "infrared": "Có",
+        "headphonejack": "Không",
+        "networksupport": "5G",
+        "gps": "GPS tần số kép chính xác (GPS, GLONASS, Galileo, QZSS, BeiDou và NavIC)",
+        "memory": "8 GB",
+        "battery": "3274 mAh",
+        "chargingtechnology": "Sạc nhanh 20 W \n Sạc không dây 15W \n Sạc không dây Qi 7.5W",
+        "chargingport": "USB Type-C",
+        "osversion": "iOS 17",
+        "cputype": "CPU 6 lõi mới với 2 lõi hiệu năng và 4 lõi hiệu suất",
+        "size": "146,6 x 70,6 x 8,25 mm",
+        "weight": "187 g",
+        "backpanelmaterial": "Kính",
+        "framematerial": "Titanium",
+        "wateranddustresistancerating": "IP68",
+        "technologyandfeatures": "Camera TrueDepth hỗ trợ nhận diện khuôn mặt",
+        "otherutilities": "SOS Khẩn Cấp \n Phát Hiện Va Chạm",
+        "audiotechnology": "AAC \n MP3 \n Apple Lossless \n FLAC \n Dolby Digital \n Dolby Digital Plus \n Dolby Atmos",
+        "fingerprintscanner": "Không",
+        "typesofsensors": "Cảm biến gia tốc \n Cảm biến tiệm cận \n Cảm biến ánh sáng \n La bàn \n Con quay hồi chuyển \n Cảm biến áp kế \n Cảm biến trọng lực",
+        "specialfeatures": "Hỗ trợ 5G \n Sạc không dây \n Nhận diện khuôn mặt \n Kháng nước, kháng bụi \n Điện thoại AI",
+        "wifi": "WiFi 6E (802.11ax)",
+        "bluetooth": "v5.3",
+        "releasedate": "09/2023",
+        "price": [
+            { "storage1": "128GB", "price1": "28.990.000", "soldout": 2 },
+            { "storage2": "256GB", "price2": "31.990.000", "soldout": 2 }
+        ],
+        "storage_options": [
+            {
+                "storage1": "128GB",
+                "colors1": [
+                    {
+                        "color1": "Titan Tự nhiên",
+                        "price1": "23.990.000",
+                        "soldout": "2"
+                    },
+                    {
+                        "color2": "Titan Xanh",
+                        "price2": "23.990.000",
+                        "soldout": "2"
+                    },
+                    {
+                        "color3": "Titan Trắng",
+                        "price3": "23.990.000",
+                        "soldout": "2"
+                    },
+                    {
+                        "color4": "Titan Đen",
+                        "price4": "23.990.000",
+                        "soldout": "2"
+                    }
+                ]
+            },
+            {
+                "storage2": "256GB",
+                "colors2": [
+                    {
+                        "color1": "Titan Tự nhiên",
+                        "price1": "27.490.000",
+                        "soldout": "2"
+                    },
+                    {
+                        "color2": "Titan Xanh",
+                        "price2": "27.490.000",
+                        "soldout": "2"
+                    },
+                    {
+                        "color3": "Titan Trắng",
+                        "price3": "27.490.000",
+                        "soldout": "1"
+                    },
+                    {
+                        "color4": "Titan Đen",
+                        "price4": "27.490.000",
+                        "soldout": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "brand": "Apple",
+        "name": "iPhone 15 Plus (VN/A)",
+        "displaysize": "6.7 inches",
+        "displaytechnology": "Super Retina XDR OLED",
+        "displayresolution": "2796 x 1290-pixel",
+        "display_features": "Dynamic Island \n HDR display \n True Tone \n Wide color (P3) \n Tần số quét 60 Hz \n Haptic Touch \n Lớp phủ oleophobia chống dấu vân tay \n Độ sáng tối đa: 2000 nits \n Mật độ điểm ảnh 460 ppi",
+        "refresh rate": "60Hz",
+        "displaytype": "Dynamic Island",
+        "backcamera": "Chính 48 MP & Phụ 12 MP",
+        "backcameravideorecord": "4K@24/25/30/60 fps \n HD 1080p@25/30/60 fps \n HD 720p@30 fps",
+        "backcamerafeatures": "Độ thu phóng kỹ thuật số lên đến 10x \n Flash True Tone \n Photonic Engine \n HDR thông minh thế hệ 5 \n Hiệu ứng Chiếu Sáng Chân Dung với sáu chế độ \n Phong Cách Nhiếp Ảnh \n Tự động chống rung hình ảnh",
+        "frontcamera": "12MP, ƒ/1.9",
+        "frontcameravideorecord": "4K@24/25/30/60 fps \n HD 1080p@25/30/60 fps",
+        "chipset": "Apple A16 Bionic",
+        "gpu": "GPU 5 lõi",
+        "ncftechnology": "Có",
+        "simcard": "2 SIM (nano SIM và eSIM)",
+        "networksupport": "5G",
+        "gps": "GPS, GLONASS, Galileo, QZSS, and BeiDou",
+        "memory": "6 GB",
+        "battery": "4383 mAh",
+        "chargingtechnology": "Sạc nhanh \n Sạc không dây MagSafe lên đến 15W \n Sạc không dây Qi lên đến 7,5W",
+        "chargingport": "USB Type-C",
+        "osversion": "iOS 17",
+        "cputype": "CPU 6 lõi với 2 lõi hiệu năng và 4 lõi tiết kiệm điện",
+        "size": "160,9 x 77,8 x 7,80 mm",
+        "weight": "201 g",
+        "backpanelmaterial": "Kính",
+        "framematerial": "Nhôm",
+        "wateranddustresistancerating": "Đạt mức IP68 (chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút)",
+        "technologyandfeatures": "Camera TrueDepth hỗ trợ nhận diện khuôn mặt",
+        "otherutilities": "SOS Khẩn Cấp \n Phát Hiện Va Chạm \n Mở khoá khuôn mặt Face ID",
+        "audiotechnology": "AAC \n MP3 \n Apple Lossless \n FLAC \n Dolby Digital \n Dolby Digital Plus \n Dolby Atmos",
+        "typesofsensors": "Cảm biến gia tốc \n Cảm biến tiệm cận \n Cảm biến ánh sáng \n Con quay hồi chuyển \n Cảm biến áp kế \n Cảm biến trọng lực",
+        "specialfeatures": "Hỗ trợ 5G \n Sạc không dây \n Nhận diện khuôn mặt \n Kháng nước, kháng bụi \n Điện thoại AI",
+        "wifi": "WiFi 6 (802.11ax)",
+        "bluetooth": "v5.3",
+        "releasedate": "09/2023",
+        "price": [
+            { "storage1": "128GB", "price1": "22.990.000", "soldout": 0 },
+            { "storage2": "256GB", "price2": "25.990.000", "soldout": 0 }
+        ],
+        "storage_options": [
+            {
+                "storage1": "128GB",
+                "colors1": [
+                    {
+                        "color1": "Đen",
+                        "price1": "19.490.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color2": "Xanh lá",
+                        "price2": "19.490.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color3": "Xanh dương",
+                        "price3": "19.590.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color4": "Hồng",
+                        "price4": "19.590.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color5": "Vàng",
+                        "price5": "19.490.000",
+                        "soldout": "0"
+                    }
+                ]
+            },
+            {
+                "storage2": "256GB",
+                "colors2": [
+                    {
+                        "color1": "Đen",
+                        "price1": "22.590.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color2": "Xanh lá",
+                        "price2": "22.590.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color3": "Xanh dương",
+                        "price3": "22.590.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color4": "Hồng",
+                        "price4": "22.590.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color5": "Vàng",
+                        "price5": "22.590.000",
+                        "soldout": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "brand": "Apple",
+        "name": "iPhone 15 (VN/A)",
+        "displaysize": "6.1 inches",
+        "displaytechnology": "Super Retina XDR OLED",
+        "displayresolution": "2556 x 1179 pixels",
+        "display_features": "Dynamic Island \n HDR display \n True Tone \n Wide color (P3) \n Haptic Touch \n Lớp phủ oleophobia chống dấu vân tay \n Độ sáng tối đa: 2000 nits",
+        "refresh rate": "60Hz",
+        "displaytype": "Dynamic Island",
+        "backcamera": "Chính 48 MP & Phụ 12 MP",
+        "backcameravideorecord": "HD 720p@30fps \n FullHD 1080p@60fps \n FullHD 1080p@30fps \n 4K 2160p@24fps \n 4K 2160p@30fps \n 4K 2160p@60fps \n FullHD 1080p@120fps \n FullHD 1080p@240fps",
+        "backcamerafeatures": "Độ thu phóng kỹ thuật số lên đến 10x \n Flash True Tone \n Photonic Engine \n HDR thông minh thế hệ 5 \n Hiệu ứng Chiếu Sáng Chân Dung với sáu chế độ \n Phong Cách Nhiếp Ảnh \n Tự động chống rung hình ảnh",
+        "frontcamera": "12MP, ƒ/1.9",
+        "chipset": "Apple A16 Bionic 6 nhân",
+        "gpu": "GPU 5 lõi",
+        "ncftechnology": "Có",
+        "simcard": "2 SIM (nano SIM và eSIM)",
+        "headphonejack": "Không",
+        "networksupport": "5G",
+        "gps": "GPS, GLONASS, Galileo, QZSS, and BeiDou",
+        "memory": "6 GB",
+        "internalstorage": "256 GB",
+        "memoryslot": "Không",
+        "battery": "3349 mAh",
+        "chargingtechnology": "Sạc nhanh \n Sạc không dây MagSafe lên đến 15W \n Sạc không dây Qi lên đến 7,5W",
+        "chargingport": "USB Type-C",
+        "osversion": "iOS 17",
+        "cputype": "CPU 6 lõi với 2 lõi hiệu năng và 4 lõi tiết kiệm điện",
+        "size": "147.6 x 71.6 x 7.80 mm",
+        "weight": "171g",
+        "backpanelmaterial": "Kính",
+        "framematerial": "Nhôm",
+        "wateranddustresistancerating": "Đạt mức IP68 (chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút)",
+        "technologyandfeatures": "Camera TrueDepth hỗ trợ nhận diện khuôn mặt",
+        "otherutilities": "Mở khoá khuôn mặt Face ID \n Phát hiện va chạm (Crash Detection) \n SOS Khẩn Cấp",
+        "audiotechnology": "AAC \n MP3 \n Apple Lossless \n FLAC \n Dolby Digital \n Dolby Digital Plus \n Dolby Atmos",
+        "fingerprintscanner": "Không",
+        "typesofsensors": "Cảm biến gia tốc \n Cảm biến tiệm cận \n Cảm biến ánh sáng \n Con quay hồi chuyển \n Cảm biến áp kế \n Cảm biến trọng lực",
+        "specialfeatures": "Hỗ trợ 5G \n Sạc không dây \n Nhận diện khuôn mặt \n Kháng nước, kháng bụi \n Điện thoại AI",
+        "wifi": "Wi-Fi MIMO \n Wi-Fi 6 \n Wi-Fi 802.11 a/b/g/n/ac/ax",
+        "bluetooth": "v5.3",
+        "releasedate": "09/2023",
+        "price": [
+            { "storage1": "128GB", "price1": "19.990.000", "soldout": 0 },
+            { "storage2": "256GB", "price2": "22.990.000", "soldout": 0 }
+        ],
+        "storage_options": [
+            {
+                "storage1": "128GB",
+                "colors1": [
+                    {
+                        "color1": "Đen",
+                        "price1": "15.890.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color2": "Xanh lá",
+                        "price2": "15.890.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color3": "Xanh dương",
+                        "price3": "15.890.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color4": "Hồng",
+                        "price4": "15.890.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color5": "Vàng",
+                        "price5": "15.790.000",
+                        "soldout": "0"
+                    }
+                ]
+            },
+            {
+                "storage2": "256GB",
+                "colors2": [
+                    {
+                        "color1": "Đen",
+                        "price1": "18.890.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color2": "Xanh lá",
+                        "price2": "18.890.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color3": "Xanh dương",
+                        "price3": "18.890.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color4": "Hồng",
+                        "price4": "18.890.000",
+                        "soldout": "0"
+                    },
+                    {
+                        "color5": "Vàng",
+                        "price5": "18.890.000",
+                        "soldout": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "brand": "Apple",
+        "name": "iPhone 14 Pro Max (VN/A)",
+        "displaysize": "6.7 inches",
+        "displaytechnology": "Super Retina XDR OLED",
+        "displayresolution": "2796 x 1290-pixel",
+        "display_features": "120Hz \n Always-On display \n HDR \n True Tone \n Haptic Touch \n 2,000,000:1 \n 2000 nits",
+        "refresh rate": "120Hz",
+        "displaytype": "Dynamic Island",
+        "backcamera": "Camera chính: 48 MP, f/1.8, 24mm, 1.22µm, PDAF, OIS \n Camera góc siêu rộng: 12 MP, f/2.2, 13mm, 120˚, 1.4µm, PDAF \n Camera tele: 12 MP, f/2.8, 77mm (telephoto), PDAF, OIS, 3x optical zoom",
+        "backcameravideorecord": "4K@24/25/30/60fps \n 1080p@25/30/60/120/240fps \n 10-bit HDR \n Dolby Vision HDR (60fps) \n Chế độ ProRes \n Chế độ Cinematic (4K@30fps)",
+        "backcamerafeatures": "Quay phim Cinematic \n Chế độ ProRes \n Quay phim Dolby Vision HDR",
+        "frontcamera": "Camera selfie: 12 MP, f/1.9, 23mm, 1/3.6\", PDAF",
+        "frontcameravideorecord": "4K@24/25/30/60fps \n 1080p@25/30/60/120fps \n Chống rung điện tử",
+        "chipset": "Apple A16 Bionic 6-core",
+        "gpu": "Apple GPU (5-core graphics)",
+        "ncftechnology": "Có",
+        "simcard": "2 SIM (nano SIM và eSIM)",
+        "networksupport": "5G",
+        "gps": "BEIDOU \n GALILEO \n GPS \n QZSS \n iBeacon \n GLONASS",
+        "memory": "6 GB",
+        "internalstorage": "128 GB",
+        "memoryslot": "Không",
+        "battery": "4.323 mAh",
+        "chargingtechnology": "Sạc nhanh PD 2.0 30W (30 phút sạc được 50%) \n Sạc không dây MagSafe 15W \n Sạc không dây chuẩn Qi 7.5W",
+        "chargingport": "Lightning",
+        "osversion": "iOS 16",
+        "cputype": "CPU 6 lõi với 2 lõi hiệu năng và 4 lõi tiết kiệm điện",
+        "size": "160.7 x 77.6 x 7.9 mm",
+        "weight": "240 gr",
+        "backpanelmaterial": "Kính",
+        "framematerial": "Kim loại",
+        "wateranddustresistancerating": "IP68",
+        "otherutilities": "Phát hiện va chạm (Crash Detection) \n Màn hình luôn hiển thị AOD \n Chạm 2 lần sáng màn hình \n Apple Pay",
+        "audiotechnology": "Loa kép",
+        "typesofsensors": "Cảm biến gia tốc \n Cảm biến tiệm cận \n Cảm biến ánh sáng \n Con quay hồi chuyển \n Cảm biến áp kế",
+        "specialfeatures": "Hỗ trợ 5G \n Sạc không dây \n Nhận diện khuôn mặt \n Kháng nước, kháng bụi \n Điện thoại AI",
+        "wifi": "Wi-Fi MIMO \n Dual-band (2.4 GHz/5 GHz) \n Wi-Fi 802.11 a/b/g/n/ac/ax \n Wi-Fi hotspot",
+        "bluetooth": "v5.3 \n A2DP \n LE",
+        "releasedate": "09/2022",
+        "price": [
+            { "storage1": "128GB", "price1": "19.990.000", "soldout": 2 },
+            { "storage2": "256GB", "price2": "22.990.000", "soldout": 2 },
+            { "storage3": "512GB", "price3": "22.990.000", "soldout": 1 },
+            { "storage4": "1TB", "price4": "22.990.000", "soldout": 1 }
+        ],
+        "storage_options": [
+            {
+                "storage1": "128GB",
+                "colors1": [
+                    {
+                        "color1": "Vàng",
+                        "price1": "25.590.000",
+                        "soldout": "2"
+                    },
+                    {
+                        "color2": "Đen",
+                        "price2": "25.590.000",
+                        "soldout": "2"
+                    },
+                    {
+                        "color3": "Bạc",
+                        "price3": "25.590.000",
+                        "soldout": "2"
+                    },
+                    {
+                        "color4": "Tím",
+                        "price4": "25.590.000",
+                        "soldout": "2"
+                    }
+                ]
+            },
+            {
+                "storage2": "256GB",
+                "colors2": [
+                    {
+                        "color1": "Vàng",
+                        "price1": "27.990.000",
+                        "soldout": "2"
+                    },
+                    {
+                        "color2": "Đen",
+                        "price2": "27.990.000",
+                        "soldout": "2"
+                    },
+                    {
+                        "color3": "Bạc",
+                        "price3": "27.990.000",
+                        "soldout": "1"
+                    },
+                    {
+                        "color4": "Tím",
+                        "price4": "27.990.000",
+                        "soldout": "2"
+                    }
+                ]
+            },
+            {
+                "storage3": "512GB",
+                "colors3": [
+                    {
+                        "color1": "Vàng",
+                        "price1": "35.190.000",
+                        "soldout": "1"
+                    },
+                    {
+                        "color2": "Đen",
+                        "price2": "35.190.000",
+                        "soldout": "1"
+                    },
+                    {
+                        "color3": "Bạc",
+                        "price3": "35.590.000",
+                        "soldout": "1"
+                    },
+                    {
+                        "color4": "Tím",
+                        "price4": "35.390.000",
+                        "soldout": "1"
+                    }
+                ]
+            },
+            {
+                "storage4": "1TB",
+                "colors4": [
+                    {
+                        "color1": "Vàng",
+                        "price1": "41.790.000",
+                        "soldout": "1"
+                    },
+                    {
+                        "color2": "Đen",
+                        "price2": "41.990.000",
+                        "soldout": "1"
+                    },
+                    {
+                        "color3": "Bạc",
+                        "price3": "41.790.000",
+                        "soldout": "1"
+                    },
+                    {
+                        "color4": "Tím",
+                        "price4": "41.790.000",
+                        "soldout": "1"
+                    }
+                ]
+            }
+        ]
+    }
+]

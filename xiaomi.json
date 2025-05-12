@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "brand": "Xiaomi",
+        "name": "Xiaomi 15 Ultra",
+        "displaysize": "6.73 inches",
+        "displaytechnology": "AMOLED",
+        "displayresolution": "3200 x 1440 pixel",
+        "display_features": "68 tỷ màu \n Tần số quét 1-120Hz \n Tốc độ phản hồi cảm ứng 300Hz \n Độ sáng tối đa 3200 nits trong nhiều tình huống \n Điều chỉnh độ sáng PWM 1920Hz/DC dimming \n Original color PRO | Pro HDR | Công nghệ cảm ứng khi ướt \n HDR10+ \n Dolby Vision",
+        "refresh rate": "120Hz",
+        "displaytype": "Đục lỗ (Nốt ruồi)",
+        "backcamera": "Camera chính Leica: 50MP, ƒ/1.63, OIS \n Camera tele Leica: 50MP, ƒ/1.8, OIS \n Camera siêu tele Leica: 200MP, ƒ/2.6, OIS \n Camera góc siêu rộng Leica: 50MP, ƒ/2.2, 115° FOV",
+        "backcameravideorecord": "8K@30fps \n 4K@30/60/120fps \n 1080p@30/60fps \n 720p@30fps \n Quay chuyển động chậm 720p \n Quay chuyển động chậm 1080p",
+        "backcamerafeatures": "Xiaomi ProFocus \n Thu phóng kỹ thuật số lên đến 120x \n HDR \n Chụp ảnh động \n Super macro \n Toàn cảnh \n Định dạng video log \n Quay đêm Ultra Night Video \n Chuyển động chậm \n Chuyển động nhanh \n Quay video trong Dolby Vision",
+        "frontcamera": "Camera trước: 32MP, ƒ/2.0, 90° FOV \n Cảm biến OV32B \n Tiêu cự 21mm",
+        "frontcameravideorecord": "4K@30/60 fps \n HD 1080p@30/60fps \n 720p@30fps",
+        "chipset": "Snapdragon 8 Elite (Tiến trình sản xuất 3nm)",
+        "gpu": "Adreno GPU",
+        "ncftechnology": "Có",
+        "simcard": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "networksupport": "5G",
+        "gps": "GPS: L1+L5 \n Galileo: E1+E5a \n GLONASS: G1 \n Beidou \n QZSS: L1 + L5 \n NavIC: L5",
+        "memory": "16 GB",
+        "internalstorage": "512 GB",
+        "battery": "5410mAh",
+        "chargingtechnology": "Sạc nhanh 90W \n Sạc không dây 80W \n Hỗ trợ QC3+ / QC3.0 / QC2.0 / PD3.0 / PD2.0 / MI FC 2.0",
+        "chargingport": "USB Type-C",
+        "osversion": "Xiaomi HyperOS 2",
+        "cputype": "2 x Lõi Prime, tốc độ tối đa 4,32GHz \n 6 x Lõi hiệu suất, lên đến 3,53GHz",
+        "size": "161.3 x 75.3 x 9.35mm (Đen, Trắng) \n (Bạc Chrome): 161.3 x 75.3 x 9.48mm",
+        "weight": "226g (Đen, Trắng) \n 229g (Bạc Chrome)",
+        "framematerial": "Nhôm",
+        "wateranddustresistancerating": "Kháng nước & bụi IP68",
+        "otherutilities": "Xiaomi HyperAI \n Viết AI \n Phiên dịch AI \n Nhận diện giọng nói AI \n Trợ lý sáng tạo AI \n Khoanh tròn để tìm kiếm bằng Google",
+        "audiotechnology": "Dolby Atmos \n Hi-Res & Hi-Res Audio Wireless certification \n 4-Mic array",
+        "typesofsensors": "Cảm biến gia tốc \n Cảm biến tiệm cận \n Cảm biến ánh sáng \n La bàn \n Con quay hồi chuyển \n Cảm biến áp kế",
+        "specialfeatures": "Hỗ trợ 5G \n Sạc không dây \n Bảo mật vân tay \n Nhận diện khuôn mặt \n Kháng nước, kháng bụi \n Điện thoại AI",
+        "wifi": "Hỗ trợ Wi-Fi 7",
+        "bluetooth": "Bluetooth 6.0",
+        "price": [
+            { "storage1": "512GB", "price1": "34.990.000", "soldout": 0 },
+            { "storage2": "1TB", "price2": "38.990.000", "soldout": 0 }
+        ],
+        "storage_options": [
+            {
+                "storage1": "512GB",
+                "colors1": [
+                    {
+                        "color1": "Đen",
+                        "price1": "32.990.000",
+                        "soldout": 0
+                    },
+                    {
+                        "color2": "Bạc",
+                        "price3": "32.990.000",
+                        "soldout": 0
+                    }
+                ]
+            },
+            {
+                "storage2": "1TB",
+                "colors2": [
+                    {
+                        "color1": "Bạc",
+                        "price1": "39.590.000",
+                        "soldout": 0
+                    }
+                ]
+            }
+        ]
+    }
+]
