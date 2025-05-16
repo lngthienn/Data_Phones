@@ -1,9 +1,5 @@
 [
     {
-        "brand": "Xiaomi",
-        "imgbrand": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:50/q:30/plain/https://cellphones.com.vn/media/tmp/catalog/product/f/r/frame_61.png"
-    },
-    {
         "id": 1,
         "brand": "Xiaomi",
         "name": "Xiaomi 15 Ultra",

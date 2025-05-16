@@ -1,0 +1,14 @@
+[
+    {
+        "brand": "Apple",
+        "imgbrand": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:50/q:30/plain/https://cellphones.com.vn/media/tmp/catalog/product/f/r/frame_59.png"
+    },
+        {
+        "brand": "Samsung",
+        "imgbrand": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:50/q:30/plain/https://cellphones.com.vn/media/tmp/catalog/product/f/r/frame_60.png"
+    },
+        {
+        "brand": "Xiaomi",
+        "imgbrand": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:50/q:30/plain/https://cellphones.com.vn/media/tmp/catalog/product/f/r/frame_61.png"
+    }
+]
