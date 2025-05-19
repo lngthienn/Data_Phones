@@ -45,6 +45,7 @@
         "storage_options": [
             {
                 "storage1": "256GB",
+                "salePrice1": "14%",
                 "colors1": [
                     {
                         "color1": "Trắng",
@@ -75,6 +76,7 @@
             },
             {
                 "storage2": "512GB",
+                "salePrice2": "18%",
                 "colors2": [
                     {
                         "color1": "Xanh dương",
@@ -95,6 +97,7 @@
             },
             {
                 "storage3": "1TB",
+                "salePrice3": "20%",
                 "colors3": [
                     {
                         "color1": "Xanh dương",
@@ -155,6 +158,7 @@
         "storage_options": [
             {
                 "storage1": "256GB",
+                "salePrice1": "15%",
                 "colors1": [
                     {
                         "color1": "Trắng/bạc",
@@ -180,6 +184,7 @@
             },
             {
                 "storage2": "512GB",
+                "salePrice2": "18%",
                 "colors2": [
                     {
                         "color1": "Trắng/bạc",
@@ -205,6 +210,7 @@
             },
             {
                 "storage3": "1TB",
+                "salePrice3": "21%",
                 "colors3": [
                     {
                         "color1": "Trắng/bạc",
@@ -269,6 +275,7 @@
         "storage_options": [
             {
                 "storage1": "256GB",
+                "salePrice1": "14%",
                 "colors1": [
                     {
                         "color1": "Xanh lá",
@@ -294,6 +301,7 @@
             },
             {
                 "storage2": "512GB",
+                "salePrice2": "17%",
                 "colors2": [
                     {
                         "color1": "Trắng/bạc",
@@ -359,6 +367,7 @@
         "storage_options": [
             {
                 "storage1": "256GB",
+                "salePrice1": "",
                 "colors1": [
                     {
                         "color1": "Xanh lá",
@@ -384,6 +393,7 @@
             },
             {
                 "storage2": "512GB",
+                "salePrice2": "",
                 "colors2": [
                     {
                         "color1": "Xanh lá",
@@ -451,6 +461,7 @@
         "storage_options": [
             {
                 "storage1": "256GB",
+                "salePrice1": "28%",
                 "colors1": [
                     {
                         "color1": "Đen",
@@ -481,6 +492,7 @@
             },
             {
                 "storage2": "512GB",
+                "salePrice2": "30%",
                 "colors2": [
                     {
                         "color1": "Đen",
@@ -559,6 +571,7 @@
         "storage_options": [
             {
                 "storage1": "256GB",
+                "salePrice1": "29%",
                 "colors1": [
                     {
                         "color1": "Vàng",
@@ -584,6 +597,7 @@
             },
             {
                 "storage2": "512GB",
+                "salePrice2": "31%",
                 "colors2": [
                     {
                         "color1": "Vàng",
@@ -609,6 +623,7 @@
             },
             {
                 "storage3": "1TB",
+                "salePrice3": "32%",
                 "colors3": [
                     {
                         "color1": "Vàng",

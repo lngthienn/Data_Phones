@@ -45,6 +45,7 @@
         "storage_options": [
             {
                 "storage1": "512GB",
+                "salePrice1": "6%",
                 "colors1": [
                     {
                         "color1": "Đen",
@@ -60,6 +61,7 @@
             },
             {
                 "storage2": "1TB",
+                "salePrice": "10%",
                 "colors2": [
                     {
                         "color1": "Bạc",
