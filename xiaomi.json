@@ -38,6 +38,7 @@
         "specialfeatures": "Hỗ trợ 5G \n Sạc không dây \n Bảo mật vân tay \n Nhận diện khuôn mặt \n Kháng nước, kháng bụi \n Điện thoại AI",
         "wifi": "Hỗ trợ Wi-Fi 7",
         "bluetooth": "Bluetooth 6.0",
+        "releasedate": "3/2025",
         "price": [
             { "storage1": "512GB", "price1": "34.990.000", "soldout": 0 },
             { "storage2": "1TB", "price2": "38.990.000", "soldout": 0 }
